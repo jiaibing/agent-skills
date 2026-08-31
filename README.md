@@ -1,2 +1,2 @@
-# agent-skills
-Collection of AI Agent skills and MCP integrations built for the  agent platform. Focus on education, career planning, and tooling. Data-driven, real-time verified, no fluff — every agent ships an actionable checklist.
+# career-counselor
+International, English-language career planning advisor for university graduates (bachelor's / master's). No hype, no anxiety-mongering — tells you what your background actually supports and what the data says. Covers full-major outcome mapping, industry employment data (with a job-hopping premium model), nine-dimension cross-analysis, city/location choice quantification, and AI-displacement early warning. Four scenarios: from-scratch planning → offer comparison → direction validation → career-anxiety coaching. Trigger words: career planning / job search / choose offer / career change / graduation confusion / what can my major do / which city to move to.
